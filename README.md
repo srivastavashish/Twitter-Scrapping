@@ -1,7 +1,3 @@
-# twitterscrapping
-App link- https://chandan25961-twitterscrapping-app-99n4as.streamlit.app/
-
-Demo video link - https://www.linkedin.com/posts/chandan-kumar-gupta-4a4834232_data-project-python-activity-7040386172514181120-3hZy?utm_source=share&utm_medium=member_desktop
 
 # About
 
